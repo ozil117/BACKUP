@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="SERVER BACKUP" tvg-logo="https://i.ibb.co/FsXFQxW/benner-hbo.png",HBO 
+https://raw.githubusercontent.com/ozil117/HBO_MOVIES/master/BolangTv.m3u8
+#EXTINF:-1 group-title="SERVER BACKUP" tvg-logo="https://i.ibb.co/dbbX3z6/HBO-HITS.png",HBO HITS
+https://raw.githubusercontent.com/ozil117/HBOHITS_MOVIES/master/BolangTv.m3u8
+#EXTINF:-1 group-title="SERVER BACKUP" tvg-logo="https://i.ibb.co/3ypfBd6/HBO-FAMILI-1.png",HBO FAMILY
+https://raw.githubusercontent.com/ozil117/HBOFAMILY_MOVIES/master/BolangTv.m3u8
+#EXTINF:-1 group-title="SERVER BACKUP" tvg-logo="https://i.ibb.co/vVTXXZT/HBO-SIGNATURE.png",HBO SIGNATURE
+https://raw.githubusercontent.com/ozil117/HBOSINGNATURE_MOVIES/master/BolangTv.m3u8
+#EXTINF:-1 group-title="SERVER BACKUP" tvg-logo="https://i.ibb.co/sPqsKPd/benner1-red.png",HBO RED
+https://raw.githubusercontent.com/ozil117/HBORED_MOVIES/master/BolangTv.m3u8
+#EXTINF:-1 group-title="SERVER BACKUP" tvg-logo="https://i.ibb.co/PTVKHGr/CINEMAX-1.png",CINEMAX
+https://raw.githubusercontent.com/ozil117/CINEMAX/master/BolangTv.m3u8
